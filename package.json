@@ -12,6 +12,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "@ant-design/icons-react": "^2.0.1",
     "@expo/samples": "~3.0.0",
     "@expo/vector-icons": "^10.0.1",
     "@react-navigation/web": "^1.0.0-alpha.9",
